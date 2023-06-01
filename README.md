@@ -1,11 +1,11 @@
 # Diffusion Content Replication study
 
-> <font color="red"> Note: </font> This repo is WIP and some code is yet to be added. Will be completely ready by CVPR conference (June 18, 2023).
+> <font color="red"> Note: </font> This repo is WIP and some code is yet to be added/tested. Will be fully ready by CVPR conference (June 18, 2023).
 
 This repo contains code for two papers.
 
 1. Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models **(<font color="green">CVPR'23</font>)** - [paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)
-2. Understanding and Mitigating Copying in Diffusion Models - link
+2. Understanding and Mitigating Copying in Diffusion Models - [paper link](https://arxiv.org/abs/2305.20086)
 
 
 ![alt text](wide_teaser.jpg "Generations from Stable Diffusion v1.4 and corresponding matches from LAION-A 6+")
